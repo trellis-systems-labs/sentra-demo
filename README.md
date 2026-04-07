@@ -12,7 +12,7 @@ Sentra determines whether systems are allowed to act before execution, based on 
 
 Sentra governs whether systems are allowed to act before execution.
 
-[Watch the demo](https://drive.google.com/file/d/14ZbOMe-5fshb2oE9GBu6q9hUUOjO_6bW/view?usp=sharing)
+[Watch the demo](https://drive.google.com/file/d/14ZbOMe-5fshb2oE9GBu6q9hUUOjO_6bW/view?usp=sharing) (~3 min)
 
 ---
 
