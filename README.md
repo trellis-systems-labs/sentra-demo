@@ -4,19 +4,28 @@ Execution, governed.
 
 Most systems act on incomplete or local truth.
 
-Sentra determines whether systems are allowed to act before execution, based on system-wide state, dependencies, and time.
+Sentra determines whether execution is allowed before it happens.
+
+Execution is no longer a default outcome. It is a goverened decision.
 
 ---
 
 ## Demo
 
-Sentra governs whether systems are allowed to act before execution.
+A short walkthrough of the control model across core scenarios:
+
+- recovery validation over time  
+- dependency blocking  
+- control transformation  
+- policy toggle behavior  
+- cross-system governance  
+- safe-to-act propagation  
 
 [Watch the demo]([https://drive.google.com/file/d/14ZbOMe-5fshb2oE9GBu6q9hUUOjO_6bW/view?usp=sharing](https://drive.google.com/file/d/1H_wzcya6eXz_0bccTd8DrJ8LVjhjECAX/view?usp=sharing)) (~5 min)
 
 ---
 
-## What this shows
+## What this demonstrates
 
 - Recovery is not trusted immediately
 - Dependencies influence execution decisions
