@@ -39,7 +39,7 @@ A short walkthrough of the control model across core scenarios:
 
 Most systems monitor events and react locally.
 
-Sentra introduces a control layer between decision and execution, ensuring systems only act when it is actually safe to do so.
+Sentra introduces a control layer between decision and execution, ensuring systems act only when it is actually safe to do so.
 
 ---
 
@@ -53,19 +53,7 @@ This is a control layer that governs execution itself.
 
 ---
 
-## Demo scenarios
-
-1. Recovery Validation
-2. Dependency Blocking
-3. Control Transformation
-4. Policy Toggle Effect
-5. Cross-System Governance
-6. Safe-to-Act Propagation
-
----
-
 ## Notes
 
-This repository is a public exploration surface for the Sentra demo and concept. Runnable implementation is maintained separately.
-
-This introduces a new layer of control in modern systems.
+This repository is a focused demonstration of the Sentra control model.
+A production-oriented implementation is maintained separately.
